@@ -1,0 +1,1 @@
+Agrego el archivo readme para hacer una segunda prueba, ya que tuve un diferencia en los comandos visisbles en relacion con el tutorial y me quedaron dudas
